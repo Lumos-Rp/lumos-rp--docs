@@ -9,3 +9,10 @@ site:
       default: true
       content:
         directory: ./items
+    - type: space
+      key: space-2
+      title: Recipes
+      path: recipes
+      draft: true
+      content:
+        directory: ./recipes

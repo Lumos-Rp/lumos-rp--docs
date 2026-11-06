@@ -13,6 +13,5 @@ site:
       key: space-2
       title: Recipes
       path: recipes
-      draft: true
       content:
         directory: ./recipes

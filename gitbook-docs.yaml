@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: LumosRP Docs
+  structure:
+    - type: space
+      key: space-1
+      title: Items
+      path: items
+      default: true
+      draft: true
+      content:
+        directory: ./items

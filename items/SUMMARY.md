@@ -1,3 +1,3 @@
 # Table of contents
 
-* [inventory catalog](README.md)
+* [Items](README.md)

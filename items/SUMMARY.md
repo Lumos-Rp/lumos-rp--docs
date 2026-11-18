@@ -6,3 +6,5 @@
 * [sombreros y gorros](sombreros-y-gorros.md)
 * [gafas y mascaras](gafas-y-mascaras.md)
 * [bufandas y collares](bufandas-y-collares.md)
+* [atuendos](atuendos.md)
+* [túnicas y capas](tunicas-y-capas.md)
